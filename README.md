@@ -1,5 +1,6 @@
 # **Contact Form**
 <img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
+This is a simple and responsive multi-page website built using **HTML**, **CSS**, and **JavaScript** as part of my Week 2 web development challenge. The project includes interactive elements and a clean design to showcase modern web development practices.
 
 
 ## Languages and Tools:
